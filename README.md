@@ -1,5 +1,5 @@
 # Power Automate and Alexa
-This is a demonstration of how to make a request to Power Automate 
+This is a demonstration of how to make a request to Microsoft Power Automate 
 from an Alexa skill endpoint written in node.js.
 
 This demo retrieve device address and returns a UPRN (unique
