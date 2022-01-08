@@ -24,14 +24,3 @@ into the issue more the author realised that skill endpoint would need to
 # Resources
 
 - [Postcodes.io](https://postcodes.io/) Free open source tool for extracting postcode data
-
-# To do
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
